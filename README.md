@@ -3,9 +3,10 @@
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
-- 📲 Mobile developer java
+- 📲 Mobile developer Java & Kotlin
 -  Desarrollador Fullstack Angular & Nodejs
 -  Desarrollador Fullstack Java Spring boot & Angular
+- 📲 Mobile developer NET MAUI
 
 <br>
 
