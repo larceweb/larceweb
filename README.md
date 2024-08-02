@@ -6,7 +6,8 @@
 - 📲 Mobile developer Java & Kotlin
 -  Desarrollador Fullstack Angular & Nodejs
 -  Desarrollador Fullstack Java Spring boot & Angular
-- 📲 Mobile developer NET MAUI
+-  Desarrollador Fullstack PHP, CAKEPHP, 
+
 
 <br>
 
